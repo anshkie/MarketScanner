@@ -2,6 +2,8 @@
 
 A Streamlit web app to screen and analyze stocks from the NSE (National Stock Exchange) using various filters like top gainers, top losers, volume shockers, and technical indicators.
 
+LIVE DEMO : https://marketscanner-keakz7fafvxiednjhp2tkn.streamlit.app/
+
 ## 🚀 Features
 
 - Top Gainers & Losers  
