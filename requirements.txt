@@ -3,3 +3,4 @@ nsetools
 pandas
 yfinance
 plotly
+python-dotenv
